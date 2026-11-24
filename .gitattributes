@@ -1,5 +1,2 @@
-# 排除 third_party/ 目录下的所有 .hpp 文件
-third_party/*.hpp linguist-vendored
-
-# 强制让 third_party/ 目录下的所有 .py 文件计入统计
-third_party/tools/*/*.py linguist-vendored=false
+# 强制让 tools/ 目录下的所有 .py 文件计入统计
+tools/**.py linguist-vendored=false
