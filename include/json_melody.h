@@ -4,7 +4,7 @@
 //
 
 #pragma once
-#include "../core/melody.h"
+#include "melody.h"
 #include <string>
 
 namespace synthpp {

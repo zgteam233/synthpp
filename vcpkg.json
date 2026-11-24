@@ -1,0 +1,8 @@
+{
+  "name": "synthpp",
+  "version": "1.0.1",
+  "dependencies": [
+    "portaudio",
+    "nlohmann-json"
+  ]
+}

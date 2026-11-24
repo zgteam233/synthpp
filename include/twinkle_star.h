@@ -4,8 +4,8 @@
 //
 
 #pragma once
-#include "../core/melody.h"
-#include "../core/note.h"
+#include "melody.h"
+#include "note.h"
 
 namespace synthpp {
 

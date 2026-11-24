@@ -3,13 +3,12 @@
 // Copyright(c) 2026 ZGTeam233.
 //
 
-#include "src/melodies/twinkle_star.h"
-#include "src/renderer/wav_renderer.h"
+#include "twinkle_star.h"
+#include "wav_renderer.h"
 #include <iostream>
 
-#include "src/melodies/json_melody.h"
-#include "src/renderer/wav_renderer.h"
-#include <iostream>
+#include "json_melody.h"
+#include "wav_renderer.h"
 
 int main() {
     try {

@@ -4,9 +4,9 @@
 //
 
 #include "json_melody.h"
-#include "../core/note.h"
-#include "../utils/midi_utils.h"
-#include "../../third_party/json.hpp"
+#include "note.h"
+#include "midi_utils.h"
+#include <nlohmann/json.hpp>
 #include <fstream>
 #include <iostream>
 

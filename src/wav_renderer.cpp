@@ -4,8 +4,8 @@
 //
 
 #include "wav_renderer.h"
-#include "../core/score.h"
-#include "../synth/synth_engine.h"
+#include "score.h"
+#include "synth_engine.h"
 #include <fstream>
 #include <iostream>
 #include <cmath>
